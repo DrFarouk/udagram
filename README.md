@@ -8,9 +8,6 @@ I did This project as a part of the Udacity Advanced FullStack Nanodegree.
 The purpose was deploying a full-stack Application on Amazon Web Servers &
 use CircleCi as a pipeline for CI & CD
 
-live link for this project
-http://farouk-udagram.s3-website-us-east-1.amazonaws.com/
-
 
 ## Screenshots
 
